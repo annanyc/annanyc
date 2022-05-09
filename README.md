@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @annanyc
+- 👋 Hi, I’m Anna Nerezova @annanyc
 - 👀 I’m interested in GCP technologies
 - 🌱 I’m currently learning https://cloud.google.com/
 - 💞️ I’m looking to collaborate on AMP first
